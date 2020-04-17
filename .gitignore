@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# OS X
+**.DS_Store
+
+# Vim temp files
+*.swp

@@ -40,5 +40,9 @@ int main() {
     float actualFloat = 6.02e23f;
     cout << "long double: " << longDouble << endl;
     cout << "actual float: " << actualFloat << endl;
+
+    // Character and strings literals
+    char c1 = 'z';
+    char c2 = 'p';
     return 0;
 }
